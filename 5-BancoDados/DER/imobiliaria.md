@@ -25,3 +25,9 @@ Os imoveis que estão alugados, precisamos saber quem é o dono, e quem o alugou
 - [ ] Garanta que todo locatario possui os dados bancarios corretamente.
 - [ ] É possivel descobrir se um imovel está ou nao alugado?
 - [ ] Verifique o relacionamento correto entre o imovel, locador e locatario
+
+
+
+## Link do Diagrama
+
+https://drawsql.app/teams/ana-8/diagrams/imobiliaria
